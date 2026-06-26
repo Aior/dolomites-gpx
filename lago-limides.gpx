@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Dolomites2026-Roadbook"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Lago di Limides - Depuis parking Passo Falzarego</name>
+    <desc>Chemin pedestre du parking Passo Falzarego au Lago di Limides. ~1km A/R, facile, chien OK.</desc>
+    <keywords>Lago Limides, Dolomites, walking, easy, dog-friendly</keywords>
+  </metadata>
+  <wpt lat="46.51982256942955" lon="12.019245752085459">
+    <name>Parking Lago Limides (Passo Falzarego)</name>
+    <sym>Parking Area</sym>
+  </wpt>
+  <wpt lat="46.5165" lon="12.0125">
+    <name>Lago di Limides</name>
+    <sym>Scenic Area</sym>
+  </wpt>
+  <trk>
+    <name>Lago di Limides - Aller</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="46.5198226" lon="12.0192458"></trkpt>
+      <trkpt lat="46.5195785" lon="12.0193063"></trkpt>
+      <trkpt lat="46.5191305" lon="12.0193710"></trkpt>
+      <trkpt lat="46.5191228" lon="12.0186980"></trkpt>
+      <trkpt lat="46.5192114" lon="12.0178762"></trkpt>
+      <trkpt lat="46.5194594" lon="12.0169403"></trkpt>
+      <trkpt lat="46.5194832" lon="12.0166527"></trkpt>
+      <trkpt lat="46.5194678" lon="12.0162959"></trkpt>
+      <trkpt lat="46.5191289" lon="12.0149510"></trkpt>
+      <trkpt lat="46.5191202" lon="12.0139492"></trkpt>
+      <trkpt lat="46.5187081" lon="12.0132773"></trkpt>
+      <trkpt lat="46.5186416" lon="12.0120221"></trkpt>
+      <trkpt lat="46.5186240" lon="12.0112477"></trkpt>
+      <trkpt lat="46.5184929" lon="12.0104554"></trkpt>
+      <trkpt lat="46.5183617" lon="12.0099926"></trkpt>
+      <trkpt lat="46.5183579" lon="12.0097426"></trkpt>
+      <trkpt lat="46.5179043" lon="12.0103898"></trkpt>
+      <trkpt lat="46.5177028" lon="12.0108243"></trkpt>
+      <trkpt lat="46.5175368" lon="12.0111976"></trkpt>
+      <trkpt lat="46.5173212" lon="12.0112513"></trkpt>
+      <trkpt lat="46.5173877" lon="12.0114332"></trkpt>
+      <trkpt lat="46.5171176" lon="12.0116051"></trkpt>
+      <trkpt lat="46.5169380" lon="12.0119131"></trkpt>
+      <trkpt lat="46.5167167" lon="12.0124162"></trkpt>
+      <trkpt lat="46.5166561" lon="12.0125613"></trkpt>
+      <trkpt lat="46.5165000" lon="12.0125000"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

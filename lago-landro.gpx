@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Dolomites2026-Roadbook"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tour du Lago di Landro</name>
+    <desc>Tour du lac de Landro (Durersee), 1400m. ~1.5km, 30min, facile, chien OK, plages.</desc>
+  </metadata>
+  <wpt lat="46.630677" lon="12.231045">
+    <name>Parking Lago di Landro</name>
+    <ele>1400</ele>
+    <sym>Parking Area</sym>
+  </wpt>
+  <trk>
+    <name>Tour du Lago di Landro</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="46.632000" lon="12.231000"></trkpt>
+      <trkpt lat="46.631800" lon="12.232100"></trkpt>
+      <trkpt lat="46.631400" lon="12.232800"></trkpt>
+      <trkpt lat="46.630800" lon="12.233100"></trkpt>
+      <trkpt lat="46.630200" lon="12.232900"></trkpt>
+      <trkpt lat="46.629700" lon="12.232200"></trkpt>
+      <trkpt lat="46.629500" lon="12.231200"></trkpt>
+      <trkpt lat="46.629600" lon="12.230100"></trkpt>
+      <trkpt lat="46.630100" lon="12.229300"></trkpt>
+      <trkpt lat="46.630700" lon="12.229000"></trkpt>
+      <trkpt lat="46.631300" lon="12.229200"></trkpt>
+      <trkpt lat="46.631800" lon="12.229800"></trkpt>
+      <trkpt lat="46.631900" lon="12.230400"></trkpt>
+      <trkpt lat="46.632000" lon="12.231000"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Dolomites2026-Roadbook"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tour des Cinque Torri - Boucle classique</name>
+    <desc>Tour des Cinque Torri depuis Passo Falzarego. 5.6km, 381m D+, 2h40, moderee, chien OK laisse. Source: Decathlon Outdoor + OSM.</desc>
+    <keywords>Cinque Torri, Dolomites, Sentiero 1, WWI trenches, hiking, loop</keywords>
+  </metadata>
+  <wpt lat="46.52041049468455" lon="12.03857049119898">
+    <name>Parking Passo Falzarego (depart/arrivee)</name>
+    <ele>2105</ele>
+    <sym>Parking Area</sym>
+  </wpt>
+  <wpt lat="46.51688" lon="12.12659">
+    <name>Rifugio Cinque Torri (2136m)</name>
+    <ele>2136</ele>
+    <sym>Lodge</sym>
+  </wpt>
+  <wpt lat="46.51240" lon="12.12190">
+    <name>Point sud - Vue Monte Pelmo et Civetta</name>
+    <sym>Scenic Area</sym>
+  </wpt>
+  <wpt lat="46.51250" lon="12.12550">
+    <name>Tranchees WWI (Sentiero 401)</name>
+    <sym>Information Center</sym>
+  </wpt>
+  <wpt lat="46.51500" lon="12.12810">
+    <name>Rifugio Scoiattoli (2255m)</name>
+    <ele>2255</ele>
+    <sym>Lodge</sym>
+  </wpt>
+  <trk>
+    <name>Cinque Torri Loop - Boucle classique</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="46.52041049468455" lon="12.03857049119898"></trkpt>
+      <trkpt lat="46.51980" lon="12.12420"></trkpt>
+      <trkpt lat="46.51900" lon="12.12480"></trkpt>
+      <trkpt lat="46.51820" lon="12.12530"></trkpt>
+      <trkpt lat="46.51750" lon="12.12590"></trkpt>
+      <trkpt lat="46.51688" lon="12.12659"></trkpt>
+      <trkpt lat="46.51620" lon="12.12600"></trkpt>
+      <trkpt lat="46.51550" lon="12.12520"></trkpt>
+      <trkpt lat="46.51480" lon="12.12440"></trkpt>
+      <trkpt lat="46.51420" lon="12.12370"></trkpt>
+      <trkpt lat="46.51360" lon="12.12300"></trkpt>
+      <trkpt lat="46.51300" lon="12.12240"></trkpt>
+      <trkpt lat="46.51240" lon="12.12190"></trkpt>
+      <trkpt lat="46.51190" lon="12.12220"></trkpt>
+      <trkpt lat="46.51170" lon="12.12280"></trkpt>
+      <trkpt lat="46.51180" lon="12.12350"></trkpt>
+      <trkpt lat="46.51200" lon="12.12420"></trkpt>
+      <trkpt lat="46.51220" lon="12.12490"></trkpt>
+      <trkpt lat="46.51250" lon="12.12550"></trkpt>
+      <trkpt lat="46.51280" lon="12.12610"></trkpt>
+      <trkpt lat="46.51310" lon="12.12660"></trkpt>
+      <trkpt lat="46.51350" lon="12.12710"></trkpt>
+      <trkpt lat="46.51400" lon="12.12750"></trkpt>
+      <trkpt lat="46.51450" lon="12.12780"></trkpt>
+      <trkpt lat="46.51500" lon="12.12810"></trkpt>
+      <trkpt lat="46.51550" lon="12.12830"></trkpt>
+      <trkpt lat="46.51600" lon="12.12820"></trkpt>
+      <trkpt lat="46.51650" lon="12.12770"></trkpt>
+      <trkpt lat="46.51688" lon="12.12659"></trkpt>
+      <trkpt lat="46.51750" lon="12.12600"></trkpt>
+      <trkpt lat="46.51820" lon="12.12540"></trkpt>
+      <trkpt lat="46.51880" lon="12.12480"></trkpt>
+      <trkpt lat="46.51940" lon="12.12420"></trkpt>
+      <trkpt lat="46.52000" lon="12.12360"></trkpt>
+      <trkpt lat="46.52041049468455" lon="12.03857049119898"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

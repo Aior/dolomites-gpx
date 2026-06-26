@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Dolomites2026-Roadbook"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tour des Tre Cime di Lavaredo</name>
+    <desc>Boucle classique Tre Cime, sentiero 101. ~10km, 400m D+, 3-4h. Chien OK en laisse.</desc>
+  </metadata>
+  <wpt lat="46.588465" lon="12.257565">
+    <name>Arret bus Misurina Genzianella</name>
+    <ele>1756</ele>
+  </wpt>
+  <wpt lat="46.612543" lon="12.296555">
+    <name>Rifugio Auronzo (depart rando)</name>
+    <ele>2320</ele>
+  </wpt>
+  <wpt lat="46.620500" lon="12.304000">
+    <name>Forcella Lavaredo (point haut)</name>
+    <ele>2450</ele>
+  </wpt>
+  <wpt lat="46.618500" lon="12.308500">
+    <name>Rifugio Lavaredo</name>
+    <ele>2440</ele>
+  </wpt>
+  <wpt lat="46.599795" lon="12.270125">
+    <name>Casello peage Tre Cime (parking bas)</name>
+    <ele>1760</ele>
+  </wpt>
+  <trk>
+    <name>Tour des Tre Cime di Lavaredo</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="46.612543" lon="12.296555"></trkpt>
+      <trkpt lat="46.615500" lon="12.295500"></trkpt>
+      <trkpt lat="46.617800" lon="12.298000"></trkpt>
+      <trkpt lat="46.619500" lon="12.300500"></trkpt>
+      <trkpt lat="46.620500" lon="12.304000"></trkpt>
+      <trkpt lat="46.619800" lon="12.306500"></trkpt>
+      <trkpt lat="46.618500" lon="12.308500"></trkpt>
+      <trkpt lat="46.617500" lon="12.310000"></trkpt>
+      <trkpt lat="46.616000" lon="12.308500"></trkpt>
+      <trkpt lat="46.614500" lon="12.306000"></trkpt>
+      <trkpt lat="46.613500" lon="12.304000"></trkpt>
+      <trkpt lat="46.613000" lon="12.302000"></trkpt>
+      <trkpt lat="46.612800" lon="12.300000"></trkpt>
+      <trkpt lat="46.612543" lon="12.296555"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

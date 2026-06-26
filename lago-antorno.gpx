@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Dolomites2026-Roadbook"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Tour du Lago d'Antorno</name>
+    <desc>Tour du lac d'Antorno, 1875m. ~2km, 45min, facile, chien OK.</desc>
+  </metadata>
+  <wpt lat="46.594843" lon="12.265370">
+    <name>Parking Lago d'Antorno</name>
+    <ele>1875</ele>
+    <sym>Parking Area</sym>
+  </wpt>
+  <wpt lat="46.594466" lon="12.263857">
+    <name>Chalet Lago Antorno (restaurant)</name>
+    <ele>1875</ele>
+    <sym>Lodge</sym>
+  </wpt>
+  <trk>
+    <name>Tour du Lago d'Antorno</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="46.597000" lon="12.265000"></trkpt>
+      <trkpt lat="46.596850" lon="12.266549"></trkpt>
+      <trkpt lat="46.596400" lon="12.267655"></trkpt>
+      <trkpt lat="46.595750" lon="12.268200"></trkpt>
+      <trkpt lat="46.595000" lon="12.268300"></trkpt>
+      <trkpt lat="46.594250" lon="12.267800"></trkpt>
+      <trkpt lat="46.593600" lon="12.266890"></trkpt>
+      <trkpt lat="46.593150" lon="12.265700"></trkpt>
+      <trkpt lat="46.593000" lon="12.264300"></trkpt>
+      <trkpt lat="46.593200" lon="12.263000"></trkpt>
+      <trkpt lat="46.593600" lon="12.262000"></trkpt>
+      <trkpt lat="46.594200" lon="12.261500"></trkpt>
+      <trkpt lat="46.595000" lon="12.261400"></trkpt>
+      <trkpt lat="46.595700" lon="12.261900"></trkpt>
+      <trkpt lat="46.596300" lon="12.262800"></trkpt>
+      <trkpt lat="46.596700" lon="12.263900"></trkpt>
+      <trkpt lat="46.596900" lon="12.265000"></trkpt>
+      <trkpt lat="46.597000" lon="12.265000"></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
